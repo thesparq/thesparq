@@ -36,4 +36,4 @@ agents keep their state when the network doesn't.
 
 ### Elsewhere
 
-[thesamueliyeh@gmail.com](mailto:thesamueliyeh@gmail.com) · [LinkedIn](https://www.linkedin.com/in/samueliyeh)
+[softsparq.xyz](https://softsparq.xyz) · [LinkedIn](https://www.linkedin.com/in/thesparq/) · [thesamueliyeh@gmail.com](mailto:thesamueliyeh@gmail.com)
